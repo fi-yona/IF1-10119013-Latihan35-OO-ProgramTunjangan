@@ -21,8 +21,8 @@ import java.util.Scanner;
 
 public class OOProgramTunjangan {
 
-    double persenTunjangan = 0.35, gajiPokok;
-    String menikah;
+    public double persenTunjangan = 0.35, gajiPokok;
+    public String menikah;
     
     public double hitungTunjangan(){
         double tunjanganMenikah;
